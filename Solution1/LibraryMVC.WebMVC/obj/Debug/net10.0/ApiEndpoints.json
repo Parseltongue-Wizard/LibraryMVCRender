@@ -1,0 +1,42 @@
+[
+  {
+    "ContainingType": "LibraryMVC.WebMVC.Controllers.ChartsController",
+    "Method": "GetBooksByYearAsync",
+    "RelativePath": "api/Charts/booksByYear",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LibraryMVC.WebMVC.Controllers.ChartsController",
+    "Method": "GetLoansByMonthAsync",
+    "RelativePath": "api/Charts/loansByMonth",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LibraryMVC.WebMVC.Controllers.ChartsController",
+    "Method": "GetReadersByDepartmentAsync",
+    "RelativePath": "api/Charts/readersByDepartment",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LibraryMVC.WebMVC.Controllers.ChartsController",
+    "Method": "GetReadersByFacultyAsync",
+    "RelativePath": "api/Charts/readersByFaculty",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

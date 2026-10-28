@@ -1,0 +1,601 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\services\\coverfileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\services\\coverfileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9434B-4AD6-CF13-9E1A-8B638445701C}|LibraryMVC.Domain\\LibraryMVC.Domain.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.domain\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9434B-4AD6-CF13-9E1A-8B638445701C}|LibraryMVC.Domain\\LibraryMVC.Domain.csproj|solutionrelative:librarymvc.domain\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\wwwroot\\covers\\secover.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\wwwroot\\covers\\secover.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\wwwroot\\covers\\algscover.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\wwwroot\\covers\\algscover.jpg||{58961B49-13E0-48C0-9258-13CBC4D40279}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\readers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\readers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA0C9009-DD5A-4537-926E-BF4324CB4BC7}|LibraryMVC.Infrastructure\\LibraryMVC.Infrastructure.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.infrastructure\\entityconfigurations\\bookentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA0C9009-DD5A-4537-926E-BF4324CB4BC7}|LibraryMVC.Infrastructure\\LibraryMVC.Infrastructure.csproj|solutionrelative:librarymvc.infrastructure\\entityconfigurations\\bookentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\loans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\loans\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\models\\bookeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\models\\bookeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BB9434B-4AD6-CF13-9E1A-8B638445701C}|LibraryMVC.Domain\\LibraryMVC.Domain.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BB9434B-4AD6-CF13-9E1A-8B638445701C}|LibraryMVC.Domain\\LibraryMVC.Domain.csproj|solutionrelative:librarymvc.domain\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\qualificationfeatures\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\qualificationfeatures\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\home\\analysis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\home\\analysis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Downloads\\Telegram Desktop\\Analysis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Downloads\\Telegram Desktop\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\controllers\\chartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\controllers\\chartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\controllers\\qualificationfeaturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\controllers\\qualificationfeaturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\qualificationfeatures\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\qualificationfeatures\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\qualificationfeatures\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\qualificationfeatures\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\qualificationfeatures\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\qualificationfeatures\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\qualificationfeatures\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\qualificationfeatures\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\models\\featureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\models\\featureform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\readers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\readers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\appsettings.json",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-27T08:44:08.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Program.cs",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-27T08:20:35.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.Domain\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "LibraryMVC.Domain\\Entities\\Author.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.Domain\\Entities\\Author.cs",
+              "RelativeToolTip": "LibraryMVC.Domain\\Entities\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T07:43:53.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SECover.jpg",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\wwwroot\\covers\\SECover.jpg",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\wwwroot\\covers\\SECover.jpg",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\wwwroot\\covers\\SECover.jpg",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\wwwroot\\covers\\SECover.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-10-23T07:31:42.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AlgsCover.jpg",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\wwwroot\\covers\\AlgsCover.jpg",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\wwwroot\\covers\\AlgsCover.jpg",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\wwwroot\\covers\\AlgsCover.jpg",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\wwwroot\\covers\\AlgsCover.jpg",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-10-23T07:31:00.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Books\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\Books\\Details.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-21T07:41:42.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoverFileService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Services\\CoverFileService.cs",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Services\\CoverFileService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Services\\CoverFileService.cs",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Services\\CoverFileService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAqwGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T07:48:24.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAANEAAAAAAAAAAAAAAOMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T08:03:30.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T07:45:37.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BookEditViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Models\\BookEditViewModel.cs",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Models\\BookEditViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Models\\BookEditViewModel.cs",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Models\\BookEditViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T07:40:48.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Books\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\Books\\Edit.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T07:13:43.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.Domain\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryMVC.Domain\\Entities\\Book.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.Domain\\Entities\\Book.cs",
+              "RelativeToolTip": "LibraryMVC.Domain\\Entities\\Book.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowCEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T07:07:40.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Readers\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Readers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Readers\\Index.cshtml",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\Readers\\Index.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAiwCgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-23T10:07:41.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Authors\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Authors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Authors\\Index.cshtml",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\Authors\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwCAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-23T10:06:53.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAAwLkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-08-23T09:56:03.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T07:47:20.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwB8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-23T10:05:29.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Authors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Authors\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Authors\\Edit.cshtml",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\Authors\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-06T07:54:54.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookEntityTypeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.Infrastructure\\EntityConfigurations\\BookEntityTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "LibraryMVC.Infrastructure\\EntityConfigurations\\BookEntityTypeConfiguration.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.Infrastructure\\EntityConfigurations\\BookEntityTypeConfiguration.cs",
+              "RelativeToolTip": "LibraryMVC.Infrastructure\\EntityConfigurations\\BookEntityTypeConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-06T08:02:23.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Analysis.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Telegram Desktop\\Analysis.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\Telegram Desktop\\Analysis.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Telegram Desktop\\Analysis.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\Telegram Desktop\\Analysis.cshtml",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-23T10:04:19.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Loans\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Loans\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Loans\\Index.cshtml",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\Loans\\Index.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwCsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-23T10:01:24.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\QualificationFeatures\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\QualificationFeatures\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\QualificationFeatures\\Index.cshtml",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\QualificationFeatures\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-22T07:57:49.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAiwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-23T10:02:57.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-08-23T10:00:32.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Analysis.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Home\\Analysis.cshtml",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Home\\Analysis.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Home\\Analysis.cshtml",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\Home\\Analysis.cshtml",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAiwFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-22T08:19:37.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Telegram Desktop\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\Telegram Desktop\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Telegram Desktop\\_Layout.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\Telegram Desktop\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-23T09:59:26.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ChartsController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Controllers\\ChartsController.cs",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Controllers\\ChartsController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Controllers\\ChartsController.cs",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Controllers\\ChartsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T08:29:47.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-22T08:13:07.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T08:22:09.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "QualificationFeaturesController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Controllers\\QualificationFeaturesController.cs",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Controllers\\QualificationFeaturesController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Controllers\\QualificationFeaturesController.cs",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Controllers\\QualificationFeaturesController.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAkwJIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T08:10:23.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\QualificationFeatures\\Details.cshtml",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\QualificationFeatures\\Details.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\QualificationFeatures\\Details.cshtml",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\QualificationFeatures\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-22T08:07:57.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\QualificationFeatures\\Edit.cshtml",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\QualificationFeatures\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\QualificationFeatures\\Edit.cshtml",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\QualificationFeatures\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-22T08:07:00.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\QualificationFeatures\\Delete.cshtml",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\QualificationFeatures\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\QualificationFeatures\\Delete.cshtml",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\QualificationFeatures\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-22T08:04:17.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Readers\\Create.cshtml",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Readers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Readers\\Create.cshtml",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\Readers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-22T08:03:07.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FeatureForm.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Models\\FeatureForm.cs",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Models\\FeatureForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Models\\FeatureForm.cs",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Models\\FeatureForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-22T08:02:47.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\QualificationFeatures\\Create.cshtml",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\QualificationFeatures\\Create.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\QualificationFeatures\\Create.cshtml",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\QualificationFeatures\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-22T08:00:33.77Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
