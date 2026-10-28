@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -152,7 +152,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -160,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\appsettings.json",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\appsettings.json",
@@ -173,15 +173,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Program.cs",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Program.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Program.cs",
               "RelativeToolTip": "LibraryMVC.WebMVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T08:20:35.652Z"
+              "WhenOpened": "2026-10-27T08:20:35.652Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
