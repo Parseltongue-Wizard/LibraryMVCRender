@@ -1,0 +1,7 @@
+# Збірка
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+.env
