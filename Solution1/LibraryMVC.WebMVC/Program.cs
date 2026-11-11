@@ -24,6 +24,7 @@ builder.Services.AddControllersWithViews(options =>
     options.Filters.Add<ApiExceptionFilter>();
 })
 .AddXmlSerializerFormatters();
+
 builder.Services.AddSingleton<ICoverFileService, CoverFileService>();
 
 //Реєстрація контексту БД (підключаємо LibraryContext до Postgres за рядком з конфігу; міграції беремо з проєкту WebMVC)
