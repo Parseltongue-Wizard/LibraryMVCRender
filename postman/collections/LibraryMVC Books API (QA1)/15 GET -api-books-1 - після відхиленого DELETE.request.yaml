@@ -1,0 +1,20 @@
+$kind: http-request
+name: 15 GET /api/books/1 - після відхиленого DELETE
+url: "{{baseUrl}}/api/books/1"
+method: GET
+headers:
+  Accept: application/json
+scripts:
+  - type: afterResponse
+    code: |-
+      pm.test('Код 200', function () {
+          pm.response.to.have.status(200);
+      });
+
+      pm.test('Видання id=1 на місці', function () {
+          const book = pm.response.json();
+          pm.expect(book.id).to.eql(1);
+          pm.expect(book.title).to.eql(pm.collectionVariables.get('sampleTitle'));
+      });
+    language: text/javascript
+order: 15000

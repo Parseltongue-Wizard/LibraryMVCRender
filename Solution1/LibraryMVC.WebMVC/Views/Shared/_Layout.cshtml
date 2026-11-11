@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/LibraryMVC.WebMVC.styles.css" asp-append-version="true" />
 </head>
-<body>
+<body class="@(ViewData["LandingPage"] as bool? == true ? "book-landing-page" : null)">
     @{
         var currentController = ViewContext.RouteData.Values["controller"]?.ToString() ?? "";
         var currentAction = ViewContext.RouteData.Values["action"]?.ToString() ?? "";
@@ -68,6 +68,7 @@
                 <div class="alert alert-danger alert-dismissible fade show" role="alert">
                     @TempData["Error"]
                     <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Закрити"></button>
+
                 </div>
             }
             @if (TempData["Success"] != null)

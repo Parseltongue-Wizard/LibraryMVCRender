@@ -1,0 +1,14 @@
+$kind: http-request
+name: 17 GET /api/books/{id} - після видалення
+url: "{{baseUrl}}/api/books/{{createdBookId}}"
+method: GET
+headers:
+  Accept: application/json
+scripts:
+  - type: afterResponse
+    code: |-
+      pm.test('Код 404', function () {
+          pm.response.to.have.status(404);
+      });
+    language: text/javascript
+order: 17000

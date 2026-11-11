@@ -1,0 +1,29 @@
+$kind: http-request
+name: 11 PUT /api/books/{id} - невалідний рік не зберігається
+url: "{{baseUrl}}/api/books/{{createdBookId}}"
+method: PUT
+headers:
+  Content-Type: application/json
+  Accept: application/json
+body:
+  type: text
+  content: |-
+    {
+      "title": "Зламаний рік",
+      "annotation": "Цей запит не має зберегтися",
+      "publicationYear": 1000,
+      "authorIds": [1],
+      "featureIds": [1]
+    }
+scripts:
+  - type: afterResponse
+    code: |-
+      pm.test('Код 400', function () {
+          pm.response.to.have.status(400);
+      });
+
+      pm.test('Помилка валідації року', function () {
+          pm.expect(pm.response.json().errors).to.have.property('PublicationYear');
+      });
+    language: text/javascript
+order: 11000

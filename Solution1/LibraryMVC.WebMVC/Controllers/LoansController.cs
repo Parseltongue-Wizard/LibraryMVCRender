@@ -45,10 +45,15 @@ public class LoansController : Controller
         return View(loan);
     }
 
-    public async Task<IActionResult> Create()
+    public async Task<IActionResult> Create(int? bookId)
     {
-        await PopulateLookupsAsync();
-        return View(new LoanForm { LoanDate = DateTime.Today, DueDate = DateTime.Today.AddDays(14) });
+        await PopulateLookupsAsync(bookId);
+        return View(new LoanForm
+        {
+            BookId = bookId ?? 0,
+            LoanDate = DateTime.Today,
+            DueDate = DateTime.Today.AddDays(14)
+        });
     }
 
     [HttpPost]
@@ -150,9 +155,9 @@ public class LoansController : Controller
             TempData["Success"] = "Видачу успішно видалено!";
         }
 
+
         return RedirectToAction(nameof(Index));
     }
-
 
     private async Task PopulateLookupsAsync(int? bookId = null, int? readerId = null)
     {

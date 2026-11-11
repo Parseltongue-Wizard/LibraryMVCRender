@@ -1,0 +1,29 @@
+$kind: http-request
+name: 13 PUT /api/books/999999 - немає видання
+url: "{{baseUrl}}/api/books/999999"
+method: PUT
+headers:
+  Content-Type: application/json
+  Accept: application/json
+body:
+  type: text
+  content: |-
+    {
+      "title": "Неіснуюче видання",
+      "annotation": "Оновлення відсутнього запису",
+      "publicationYear": 2024,
+      "authorIds": [1],
+      "featureIds": []
+    }
+scripts:
+  - type: afterResponse
+    code: |-
+      pm.test('Код 404', function () {
+          pm.response.to.have.status(404);
+      });
+
+      pm.test('Повідомлення українською', function () {
+          pm.expect(pm.response.json().message).to.include('не знайдено');
+      });
+    language: text/javascript
+order: 13000

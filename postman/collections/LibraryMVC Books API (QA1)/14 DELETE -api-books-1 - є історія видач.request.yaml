@@ -1,0 +1,19 @@
+$kind: http-request
+name: 14 DELETE /api/books/1 - є історія видач
+description: Демо-видання id=1 має позики, тому видалення заборонене.
+url: "{{baseUrl}}/api/books/1"
+method: DELETE
+headers:
+  Accept: application/json
+scripts:
+  - type: afterResponse
+    code: |-
+      pm.test('Код 409', function () {
+          pm.response.to.have.status(409);
+      });
+
+      pm.test('Повідомлення про видачі', function () {
+          pm.expect(pm.response.json().message).to.include('видач');
+      });
+    language: text/javascript
+order: 14000

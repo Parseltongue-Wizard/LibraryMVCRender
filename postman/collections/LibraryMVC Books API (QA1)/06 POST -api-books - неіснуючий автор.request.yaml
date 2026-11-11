@@ -1,0 +1,29 @@
+$kind: http-request
+name: 06 POST /api/books - неіснуючий автор
+url: "{{baseUrl}}/api/books"
+method: POST
+headers:
+  Content-Type: application/json
+  Accept: application/json
+body:
+  type: text
+  content: |-
+    {
+      "title": "Книга без автора",
+      "annotation": "Перевірка посилання на автора",
+      "publicationYear": 2024,
+      "authorIds": [99999],
+      "featureIds": []
+    }
+scripts:
+  - type: afterResponse
+    code: |-
+      pm.test('Код 400', function () {
+          pm.response.to.have.status(400);
+      });
+
+      pm.test('Повідомлення про автора', function () {
+          pm.expect(pm.response.json().message).to.include('автора');
+      });
+    language: text/javascript
+order: 6000

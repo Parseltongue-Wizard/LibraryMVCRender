@@ -1,0 +1,26 @@
+$kind: http-request
+name: 02 GET /api/books - список XML
+description: Той самий список, формат обирає заголовок Accept.
+url: "{{baseUrl}}/api/books"
+method: GET
+headers:
+  Accept: application/xml
+scripts:
+  - type: afterResponse
+    code: |-
+      pm.test('Код 200', function () {
+          pm.response.to.have.status(200);
+      });
+
+      pm.test('Content-Type містить xml', function () {
+          pm.expect(pm.response.headers.get('Content-Type') || '').to.include('xml');
+      });
+
+      pm.test('XML містить те саме видання id=1', function () {
+          const body = pm.response.text();
+          pm.expect(body).to.include('BookJsonDto');
+          pm.expect(body).to.include('<Id>1</Id>');
+          pm.expect(body).to.include(pm.collectionVariables.get('sampleTitle'));
+      });
+    language: text/javascript
+order: 2000

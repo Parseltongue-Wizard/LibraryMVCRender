@@ -1,0 +1,39 @@
+$kind: http-request
+name: 01 GET /api/books - список JSON
+description: Успішне читання всього фонду у JSON.
+url: "{{baseUrl}}/api/books"
+method: GET
+headers:
+  Accept: application/json
+scripts:
+  - type: afterResponse
+    code: |-
+      pm.test('Код 200', function () {
+          pm.response.to.have.status(200);
+      });
+
+      pm.test('Content-Type містить json', function () {
+          pm.expect(pm.response.headers.get('Content-Type') || '').to.include('json');
+      });
+
+      pm.test('Тіло — масив видань, id=1 збережено для наступних кроків', function () {
+          const books = pm.response.json();
+          pm.expect(books).to.be.an('array').that.is.not.empty;
+          books.forEach(function (book) {
+              pm.expect(book).to.include.keys('id', 'title', 'annotation', 'publicationYear', 'authors', 'features');
+              pm.expect(book.authors).to.be.an('array');
+              pm.expect(book.features).to.be.an('array');
+          });
+          const demo = books.find(function (book) { return book.id === 1; });
+          pm.expect(demo, 'видання id=1').to.be.an('object');
+          pm.expect(demo.title).to.be.a('string').and.not.empty;
+          pm.expect(demo.authors).to.not.be.empty;
+          pm.collectionVariables.set('sampleTitle', demo.title);
+          pm.collectionVariables.set('sampleYear', String(demo.publicationYear));
+      });
+
+      pm.test('Відповідь швидша за 3 с', function () {
+          pm.expect(pm.response.responseTime).to.be.below(3000);
+      });
+    language: text/javascript
+order: 1000

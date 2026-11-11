@@ -1,0 +1,32 @@
+$kind: http-request
+name: 05 POST /api/books - невалідне тіло
+description: Порожня назва й анотація, рік поза діапазоном 1450–2100.
+url: "{{baseUrl}}/api/books"
+method: POST
+headers:
+  Content-Type: application/json
+  Accept: application/json
+body:
+  type: text
+  content: |-
+    {
+      "title": "",
+      "annotation": "",
+      "publicationYear": 1000
+    }
+scripts:
+  - type: afterResponse
+    code: |-
+      pm.test('Код 400', function () {
+          pm.response.to.have.status(400);
+      });
+
+      pm.test('Є словник помилок валідації', function () {
+          const body = pm.response.json();
+          pm.expect(body.status).to.eql(400);
+          pm.expect(body.errors).to.be.an('object');
+          pm.expect(body.errors).to.have.property('Title');
+          pm.expect(body.errors).to.have.property('PublicationYear');
+      });
+    language: text/javascript
+order: 5000

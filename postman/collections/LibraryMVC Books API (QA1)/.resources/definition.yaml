@@ -1,0 +1,12 @@
+$kind: collection
+description: |-
+  Автоматичні тести REST API видань (завдання C5).
+
+  Базовий URL береться зі змінної baseUrl (середовище LibraryMVC local, за замовчуванням [http://localhost:5221](http://localhost:5221)).
+variables:
+  baseUrl: http://localhost:5221
+  createdBookId: ""
+  qaTitle: ""
+  qaIsbn: ""
+  sampleTitle: ""
+  sampleYear: ""

@@ -1,0 +1,45 @@
+$kind: http-request
+name: 08 POST /api/books - створити видання
+url: "{{baseUrl}}/api/books"
+method: POST
+headers:
+  Content-Type: application/json
+  Accept: application/json
+body:
+  type: text
+  content: |-
+    {
+      "title": "{{qaTitle}}",
+      "annotation": "Створено автоматичним тестом Postman (QA1)",
+      "publicationYear": 2026,
+      "publisher": "Кафедра",
+      "isbn": "{{qaIsbn}}",
+      "authorIds": [1],
+      "featureIds": [1]
+    }
+scripts:
+  - type: beforeRequest
+    code: |-
+      const stamp = Date.now();
+      pm.collectionVariables.set('qaTitle', 'QA1 тестове видання ' + stamp);
+      pm.collectionVariables.set('qaIsbn', '978-617-' + String(stamp).slice(-7));
+    language: text/javascript
+  - type: afterResponse
+    code: |-
+      pm.test('Код 200', function () {
+          pm.response.to.have.status(200);
+      });
+
+      pm.test('Видання створено, id збережено', function () {
+          const book = pm.response.json();
+          pm.expect(book.id).to.be.a('number').and.to.be.above(0);
+          pm.expect(book.title).to.eql(pm.collectionVariables.get('qaTitle'));
+          pm.expect(book.publicationYear).to.eql(2026);
+          pm.expect(book.publisher).to.eql('Кафедра');
+          pm.expect(book.isbn).to.eql(pm.collectionVariables.get('qaIsbn'));
+          pm.expect(book.authors).to.have.lengthOf(1);
+          pm.expect(book.features).to.have.lengthOf(1);
+          pm.collectionVariables.set('createdBookId', String(book.id));
+      });
+    language: text/javascript
+order: 8000

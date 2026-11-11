@@ -1,0 +1,36 @@
+$kind: http-request
+name: 10 PUT /api/books/{id} - оновити
+url: "{{baseUrl}}/api/books/{{createdBookId}}"
+method: PUT
+headers:
+  Content-Type: application/json
+  Accept: application/json
+body:
+  type: text
+  content: |-
+    {
+      "title": "{{qaTitle}} (оновлено)",
+      "annotation": "Анотацію змінено автоматичним тестом PUT",
+      "publicationYear": 2025,
+      "publisher": "Кафедра",
+      "isbn": "{{qaIsbn}}",
+      "authorIds": [1, 2],
+      "featureIds": [1, 2]
+    }
+scripts:
+  - type: afterResponse
+    code: |-
+      pm.test('Код 200', function () {
+          pm.response.to.have.status(200);
+      });
+
+      pm.test('Поля оновлено', function () {
+          const book = pm.response.json();
+          pm.expect(String(book.id)).to.eql(pm.collectionVariables.get('createdBookId'));
+          pm.expect(book.title).to.eql(pm.collectionVariables.get('qaTitle') + ' (оновлено)');
+          pm.expect(book.publicationYear).to.eql(2025);
+          pm.expect(book.authors).to.have.lengthOf(2);
+          pm.expect(book.features).to.have.lengthOf(2);
+      });
+    language: text/javascript
+order: 10000

@@ -1,0 +1,29 @@
+$kind: http-request
+name: 07 POST /api/books - неіснуюча ознака
+url: "{{baseUrl}}/api/books"
+method: POST
+headers:
+  Content-Type: application/json
+  Accept: application/json
+body:
+  type: text
+  content: |-
+    {
+      "title": "Книга без ознаки",
+      "annotation": "Перевірка посилання на кваліфікаційну ознаку",
+      "publicationYear": 2024,
+      "authorIds": [1],
+      "featureIds": [99999]
+    }
+scripts:
+  - type: afterResponse
+    code: |-
+      pm.test('Код 400', function () {
+          pm.response.to.have.status(400);
+      });
+
+      pm.test('Повідомлення про ознаку', function () {
+          pm.expect(pm.response.json().message).to.include('ознаку');
+      });
+    language: text/javascript
+order: 7000

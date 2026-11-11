@@ -1,0 +1,18 @@
+$kind: http-request
+name: 16 DELETE /api/books/{id} - створене тестом
+url: "{{baseUrl}}/api/books/{{createdBookId}}"
+method: DELETE
+headers:
+  Accept: application/json
+scripts:
+  - type: afterResponse
+    code: |-
+      pm.test('Код 200', function () {
+          pm.response.to.have.status(200);
+      });
+
+      pm.test('Підтвердження видалення', function () {
+          pm.expect(pm.response.json().message).to.include('видалено');
+      });
+    language: text/javascript
+order: 16000

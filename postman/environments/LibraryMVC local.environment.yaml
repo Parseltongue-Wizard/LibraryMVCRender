@@ -1,0 +1,4 @@
+name: LibraryMVC local
+values:
+  - key: baseUrl
+    value: 'http://localhost:5221'

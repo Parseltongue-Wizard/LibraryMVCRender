@@ -1,0 +1,21 @@
+$kind: http-request
+name: 09 GET /api/books/{id} - щойно створене
+url: "{{baseUrl}}/api/books/{{createdBookId}}"
+method: GET
+headers:
+  Accept: application/json
+scripts:
+  - type: afterResponse
+    code: |-
+      pm.test('Код 200', function () {
+          pm.response.to.have.status(200);
+      });
+
+      pm.test('Збігається зі створеним', function () {
+          const book = pm.response.json();
+          pm.expect(String(book.id)).to.eql(pm.collectionVariables.get('createdBookId'));
+          pm.expect(book.title).to.eql(pm.collectionVariables.get('qaTitle'));
+          pm.expect(book.annotation).to.include('QA1');
+      });
+    language: text/javascript
+order: 9000
