@@ -235,11 +235,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_GoogleAnalytics.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Shared\\_GoogleAnalytics.cshtml",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Shared\\_GoogleAnalytics.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Shared\\_GoogleAnalytics.cshtml",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\Shared\\_GoogleAnalytics.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-17T09:33:23.372Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -251,19 +264,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\Telegram Desktop\\_GoogleAnalytics.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-17T09:00:33.791Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_GoogleAnalytics.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Shared\\_GoogleAnalytics.cshtml",
-              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Shared\\_GoogleAnalytics.cshtml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Shared\\_GoogleAnalytics.cshtml",
-              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\Shared\\_GoogleAnalytics.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-17T08:58:43.135Z",
+              "WhenOpened": "2026-11-17T09:00:33.791Z",
               "EditorCaption": ""
             },
             {
