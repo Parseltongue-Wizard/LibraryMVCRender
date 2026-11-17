@@ -385,4 +385,6 @@ C:\Users\PC\Desktop\Тарас\Комісія\Solution0708\Solution1\LibraryMVC.
 C:\Users\PC\Desktop\Тарас\Комісія\Solution0708\Solution1\LibraryMVC.WebMVC\obj\Debug\net10.0\compressed\382ibhu109-{0}-r6xxv26crn-r6xxv26crn.gz
 C:\Users\PC\Desktop\Тарас\Комісія\Solution0708\Solution1\LibraryMVC.WebMVC\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\PC\Desktop\Тарас\Комісія\Solution0708\Solution1\LibraryMVC.WebMVC\obj\Debug\net10.0\LibraryMVC.WebMVC.sourcelink.json
-C:\Users\PC\Desktop\Тарас\Комісія\Solution0708\Solution1\LibraryMVC.WebMVC\obj\Debug\net10.0\compressed\4xo8peidlv-{0}-u193ucve6i-u193ucve6i.gz
+C:\Users\PC\Desktop\Тарас\Комісія\Solution0708\Solution1\LibraryMVC.WebMVC\obj\Debug\net10.0\compressed\4xo8peidlv-{0}-dakr055e61-dakr055e61.gz
+C:\Users\PC\Desktop\Тарас\Комісія\Solution0708\Solution1\LibraryMVC.WebMVC\obj\Debug\net10.0\compressed\c0c0veqa91-{0}-l9dbaxccud-l9dbaxccud.gz
+C:\Users\PC\Desktop\Тарас\Комісія\Solution0708\Solution1\LibraryMVC.WebMVC\obj\Debug\net10.0\compressed\6asijzo5yv-{0}-868ijy660t-868ijy660t.gz

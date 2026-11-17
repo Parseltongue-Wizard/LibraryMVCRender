@@ -1,9 +1,11 @@
-﻿using LibraryMVC.Infrastructure;
+﻿using LibraryMVC.Domain.Entities;
+using LibraryMVC.Infrastructure;
 using LibraryMVC.WebMVC.Models.Api;
 using LibraryMVC.WebMVC.Services;
+using Microsoft.AspNetCore.Http.Extensions;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using LibraryMVC.Domain.Entities;
+using System.Globalization;
 
 namespace LibraryMVC.WebMVC.Controllers;
 
@@ -13,6 +15,8 @@ namespace LibraryMVC.WebMVC.Controllers;
 
 public class BooksApiController : ControllerBase
 {
+    private const int DefaultPageSize = 10;
+    private const int MaxPageSize = 100;
     private readonly LibraryContext _context;
     private readonly ICoverFileService _covers;
 
@@ -23,16 +27,55 @@ public class BooksApiController : ControllerBase
     }
 
     [HttpGet]
-    public async Task<ActionResult<List<BookJsonDto>>> GetAll()
+    public async Task<ActionResult<List<BookJsonDto>>> GetAll(
+        [FromQuery] int? skip,
+        [FromQuery] int? limit,
+        [FromQuery(Name = "$skip")] int? odataSkip,
+        [FromQuery(Name = "$top")] int? odataTop)
     {
-        var books = await _context.Books
-            .AsNoTracking()
-            .Include(book => book.Authors)
-            .Include(book => book.Features)
-            .ToListAsync();
+        var paged = skip.HasValue || limit.HasValue || odataSkip.HasValue || odataTop.HasValue;
+        var query = BooksQuery();
 
-        return Ok(books.Select(ToDto).ToList());
+        if (!paged)
+        {
+            var books = await query.ToListAsync();
+            return Ok(books.Select(ToDto).ToList());
+        }
+
+        var useODataNames = !skip.HasValue && !limit.HasValue;
+        var pageSkip = skip ?? odataSkip ?? 0;
+        var pageLimit = limit ?? odataTop ?? DefaultPageSize;
+
+        if (pageSkip < 0)
+        {
+            return BadRequest(new ApiMessageDto
+            {
+                Message = "Параметр skip ($skip) не може бути від'ємним"
+            });
+        }
+
+        if (pageLimit < 1 || pageLimit > MaxPageSize)
+        {
+            return BadRequest(new ApiMessageDto
+            {
+                Message = $"Параметр limit ($top) має бути в межах 1–{MaxPageSize}"
+            });
+        }
+
+        var total = await query.CountAsync();
+        var page = await query.Skip(pageSkip).Take(pageLimit).ToListAsync();
+
+        return Ok(new PagedBooksDto
+        {
+            Skip = pageSkip,
+            Limit = pageLimit,
+            Count = total,
+            Items = page.Select(ToDto).ToList(),
+            NextLink = BuildNextLink(pageSkip + pageLimit, pageLimit, total, useODataNames)
+        });
     }
+
+
 
     [HttpGet("{id:int}")]
     public async Task<ActionResult<BookJsonDto>> GetById(int id)
@@ -138,6 +181,36 @@ public class BooksApiController : ControllerBase
                 .Select(feature => new NamedRefDto { Id = feature.Id, Name = feature.Name })
                 .ToList()
         };
+    }
+
+    private IQueryable<Book> BooksQuery()
+    {
+        return _context.Books
+            .AsNoTracking()
+            .AsSplitQuery()
+            .Include(book => book.Authors)
+            .Include(book => book.Features)
+            .OrderBy(book => book.Title)
+            .ThenBy(book => book.Id);
+    }
+
+    private string? BuildNextLink(int nextSkip, int limit, int total, bool odata)
+    {
+        if (nextSkip >= total)
+        {
+            return null;
+        }
+
+        var rawQuery = odata
+            ? $"?$skip={nextSkip.ToString(CultureInfo.InvariantCulture)}&$top={limit.ToString(CultureInfo.InvariantCulture)}"
+            : $"?skip={nextSkip.ToString(CultureInfo.InvariantCulture)}&limit={limit.ToString(CultureInfo.InvariantCulture)}";
+
+        return UriHelper.BuildAbsolute(
+            Request.Scheme,
+            Request.Host,
+            Request.PathBase,
+            Request.Path,
+            new QueryString(rawQuery));
     }
     private async Task<Book?> LoadBookAsync(int id, bool tracking)
     {

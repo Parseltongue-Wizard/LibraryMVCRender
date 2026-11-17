@@ -3,8 +3,67 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\_googleanalytics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\_googleanalytics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Downloads\\Telegram Desktop\\_GoogleAnalytics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\wwwroot\\lib\\chart.js\\chart.umd.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\wwwroot\\lib\\chart.js\\chart.umd.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\home\\analysis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\home\\analysis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\wwwroot\\js\\library-charts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\wwwroot\\js\\library-charts.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\controllers\\booksapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\controllers\\booksapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\models\\bookpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\models\\bookpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\models\\api\\bookapidtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\models\\api\\bookapidtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Downloads\\Telegram Desktop\\_Layout (3).cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
@@ -12,10 +71,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Downloads\\Telegram Desktop\\Details (3).cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
@@ -51,14 +106,6 @@
       "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\controllers\\loanscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\controllers\\booksapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\controllers\\booksapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -71,24 +118,12 @@
       "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\wwwroot\\favicon.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\filters\\apiexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\filters\\apiexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BB9434B-4AD6-CF13-9E1A-8B638445701C}|LibraryMVC.Domain\\LibraryMVC.Domain.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.domain\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9BB9434B-4AD6-CF13-9E1A-8B638445701C}|LibraryMVC.Domain\\LibraryMVC.Domain.csproj|solutionrelative:librarymvc.domain\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\models\\api\\bookapidtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\models\\api\\bookapidtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\services\\coverfileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -113,10 +148,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA0C9009-DD5A-4537-926E-BF4324CB4BC7}|LibraryMVC.Infrastructure\\LibraryMVC.Infrastructure.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.infrastructure\\entityconfigurations\\bookentitytypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -149,10 +180,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\qualificationfeatures\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\qualificationfeatures\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\home\\analysis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\home\\analysis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Downloads\\Telegram Desktop\\Analysis.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
@@ -208,7 +235,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -217,83 +244,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout (3).cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Telegram Desktop\\_Layout (3).cshtml",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\Telegram Desktop\\_Layout (3).cshtml",
-              "ToolTip": "C:\\Users\\PC\\Downloads\\Telegram Desktop\\_Layout (3).cshtml",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\Telegram Desktop\\_Layout (3).cshtml",
-              "ViewState": "AgIAAGQAAAAAAAAAAADwv4YAAAAAAAAAAAAAAA==",
+              "Title": "_GoogleAnalytics.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Telegram Desktop\\_GoogleAnalytics.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\Telegram Desktop\\_GoogleAnalytics.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Telegram Desktop\\_GoogleAnalytics.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\Telegram Desktop\\_GoogleAnalytics.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-11T09:31:27.368Z",
+              "WhenOpened": "2026-11-17T09:00:33.791Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Details (3).cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Telegram Desktop\\Details (3).cshtml",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\Telegram Desktop\\Details (3).cshtml",
-              "ToolTip": "C:\\Users\\PC\\Downloads\\Telegram Desktop\\Details (3).cshtml",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\Telegram Desktop\\Details (3).cshtml",
-              "ViewState": "AgIAAIABAAAAAAAAAAAUwKQBAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "_GoogleAnalytics.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\_GoogleAnalytics.cshtml",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\_GoogleAnalytics.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\_GoogleAnalytics.cshtml",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\_GoogleAnalytics.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-11T09:30:40.512Z",
+              "WhenOpened": "2026-11-17T08:58:43.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-17T08:58:12.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-17T08:58:05.957Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program (2).cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Telegram Desktop\\Program (2).cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\Telegram Desktop\\Program (2).cs",
-              "ToolTip": "C:\\Users\\PC\\Downloads\\Telegram Desktop\\Program (2).cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\Telegram Desktop\\Program (2).cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T09:30:30.347Z",
+              "Title": "chart.umd.min.js",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\wwwroot\\lib\\chart.js\\chart.umd.min.js",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\wwwroot\\lib\\chart.js\\chart.umd.min.js",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\wwwroot\\lib\\chart.js\\chart.umd.min.js",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\wwwroot\\lib\\chart.js\\chart.umd.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-11-12T09:32:36.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SeoController (2).cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Telegram Desktop\\SeoController (2).cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\Telegram Desktop\\SeoController (2).cs",
-              "ToolTip": "C:\\Users\\PC\\Downloads\\Telegram Desktop\\SeoController (2).cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\Telegram Desktop\\SeoController (2).cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAiwDAAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T09:30:10.396Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SeoController.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Controllers\\SeoController.cs",
-              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Controllers\\SeoController.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Controllers\\SeoController.cs",
-              "RelativeToolTip": "LibraryMVC.WebMVC\\Controllers\\SeoController.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-11T09:11:56.684Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ApiExceptionFilter.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Filters\\ApiExceptionFilter.cs",
-              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Filters\\ApiExceptionFilter.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Filters\\ApiExceptionFilter.cs",
-              "RelativeToolTip": "LibraryMVC.WebMVC\\Filters\\ApiExceptionFilter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-11-04T09:35:25.455Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 34,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Models\\ErrorViewModel.cs",
@@ -305,33 +320,213 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 12,
               "Title": "BooksController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Controllers\\BooksController.cs",
               "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Controllers\\BooksController.cs",
               "RelativeToolTip": "LibraryMVC.WebMVC\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAANEAAAAAAAAAAAAAAOMAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-06T08:03:30.256Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-06T08:03:30.256Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAHMAAAAAAAAAAADwv4YAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAswIcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-08-22T08:13:07.383Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BookApiDtos.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Models\\Api\\BookApiDtos.cs",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Models\\Api\\BookApiDtos.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Models\\Api\\BookApiDtos.cs",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Models\\Api\\BookApiDtos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T09:07:54.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BooksApiController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Controllers\\BooksApiController.cs",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Controllers\\BooksApiController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Controllers\\BooksApiController.cs",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Controllers\\BooksApiController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAYwEsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T08:17:37.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Analysis.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Home\\Analysis.cshtml",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Home\\Analysis.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Home\\Analysis.cshtml",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\Home\\Analysis.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-22T08:19:37.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAI8BAAAAAAAAAAAqwLMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-08-23T09:56:03.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-23T10:05:29.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\appsettings.json",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-27T08:44:08.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "library-charts.js",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\wwwroot\\js\\library-charts.js",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\wwwroot\\js\\library-charts.js",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\wwwroot\\js\\library-charts.js",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\wwwroot\\js\\library-charts.js",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAAwOMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-11-12T09:20:29.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-23T10:02:57.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ApiExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Filters\\ApiExceptionFilter.cs",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Filters\\ApiExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Filters\\ApiExceptionFilter.cs",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Filters\\ApiExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T09:35:25.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SeoController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Controllers\\SeoController.cs",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Controllers\\SeoController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Controllers\\SeoController.cs",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Controllers\\SeoController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T09:11:56.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BookPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Models\\BookPageViewModel.cs",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Models\\BookPageViewModel.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Models\\BookPageViewModel.cs",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Models\\BookPageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T09:03:08.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SeoController (2).cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Telegram Desktop\\SeoController (2).cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\Telegram Desktop\\SeoController (2).cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Telegram Desktop\\SeoController (2).cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\Telegram Desktop\\SeoController (2).cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwDAAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T09:30:10.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program (2).cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Telegram Desktop\\Program (2).cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\Telegram Desktop\\Program (2).cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Telegram Desktop\\Program (2).cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\Telegram Desktop\\Program (2).cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-11T09:30:30.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Details (3).cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Telegram Desktop\\Details (3).cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\Telegram Desktop\\Details (3).cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Telegram Desktop\\Details (3).cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\Telegram Desktop\\Details (3).cshtml",
+              "ViewState": "AgIAAIABAAAAAAAAAAAUwKQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-11T09:30:40.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout (3).cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Telegram Desktop\\_Layout (3).cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\Telegram Desktop\\_Layout (3).cshtml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\Telegram Desktop\\_Layout (3).cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\Telegram Desktop\\_Layout (3).cshtml",
+              "ViewState": "AgIAAGQAAAAAAAAAAADwv4YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-11T09:31:27.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "SeoController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Telegram Desktop\\SeoController.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\Telegram Desktop\\SeoController.cs",
@@ -343,7 +538,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 17,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Books\\Details.cshtml",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Books\\Details.cshtml",
@@ -351,12 +546,11 @@
               "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\Books\\Details.cshtml",
               "ViewState": "AgIAAI8BAAAAAAAAAAAYwKQBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-21T07:41:42.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-21T07:41:42.919Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 24,
               "Title": "Details (2).cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Telegram Desktop\\Details (2).cshtml",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\Telegram Desktop\\Details (2).cshtml",
@@ -368,7 +562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 23,
               "Title": "_Layout (2).cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Telegram Desktop\\_Layout (2).cshtml",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\Telegram Desktop\\_Layout (2).cshtml",
@@ -380,7 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 22,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Program.cs",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Program.cs",
@@ -388,24 +582,11 @@
               "RelativeToolTip": "LibraryMVC.WebMVC\\Program.cs",
               "ViewState": "AgIAAD4AAAAAAAAAAAAkwGEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-27T08:20:35.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-27T08:20:35.652Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "LibraryMVC.WebMVC\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAAJsBAAAAAAAAAAAAAJ0BAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-08-23T09:56:03.836Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 27,
               "Title": "LoansController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Controllers\\LoansController.cs",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Controllers\\LoansController.cs",
@@ -417,7 +598,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 26,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Telegram Desktop\\Details.cshtml",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\Telegram Desktop\\Details.cshtml",
@@ -429,7 +610,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 30,
               "Title": "favicon.ico - Icon [32x32, 32 bit, BMP]",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\wwwroot\\favicon.ico",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\wwwroot\\favicon.ico",
@@ -441,7 +622,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 29,
               "Title": "site.js",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\wwwroot\\js\\site.js",
@@ -453,19 +634,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BooksApiController.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Controllers\\BooksApiController.cs",
-              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Controllers\\BooksApiController.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Controllers\\BooksApiController.cs",
-              "RelativeToolTip": "LibraryMVC.WebMVC\\Controllers\\BooksApiController.cs",
-              "ViewState": "AgIAAJgAAAAAAAAAAAAAAKwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-30T08:17:37.733Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 32,
               "Title": "Author.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.Domain\\Entities\\Author.cs",
               "RelativeDocumentMoniker": "LibraryMVC.Domain\\Entities\\Author.cs",
@@ -477,7 +646,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 28,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Properties\\launchSettings.json",
@@ -489,7 +658,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 44,
               "Title": "BookEditViewModel.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Models\\BookEditViewModel.cs",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Models\\BookEditViewModel.cs",
@@ -501,19 +670,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\appsettings.json",
-              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\appsettings.json",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\appsettings.json",
-              "RelativeToolTip": "LibraryMVC.WebMVC\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAACqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-27T08:44:08.913Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 33,
               "Title": "CoverFileService.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Services\\CoverFileService.cs",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Services\\CoverFileService.cs",
@@ -525,7 +682,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 36,
               "Title": "AlgsCover.jpg",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\wwwroot\\covers\\AlgsCover.jpg",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\wwwroot\\covers\\AlgsCover.jpg",
@@ -536,7 +693,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 35,
               "Title": "SECover.jpg",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\wwwroot\\covers\\SECover.jpg",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\wwwroot\\covers\\SECover.jpg",
@@ -547,31 +704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-23T10:02:57.506Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "BookApiDtos.cs",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Models\\Api\\BookApiDtos.cs",
-              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Models\\Api\\BookApiDtos.cs",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Models\\Api\\BookApiDtos.cs",
-              "RelativeToolTip": "LibraryMVC.WebMVC\\Models\\Api\\BookApiDtos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-29T09:07:54.612Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 41,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Books\\Edit.cshtml",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Books\\Edit.cshtml",
@@ -583,7 +716,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 45,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.Domain\\Entities\\Book.cs",
               "RelativeDocumentMoniker": "LibraryMVC.Domain\\Entities\\Book.cs",
@@ -595,7 +728,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 37,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Readers\\Index.cshtml",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Readers\\Index.cshtml",
@@ -607,7 +740,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 38,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Authors\\Index.cshtml",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Authors\\Index.cshtml",
@@ -619,7 +752,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 40,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Books\\Create.cshtml",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Books\\Create.cshtml",
@@ -631,19 +764,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Books\\Index.cshtml",
-              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Books\\Index.cshtml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Books\\Index.cshtml",
-              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\Books\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAiwB8AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-23T10:05:29.83Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 42,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Authors\\Edit.cshtml",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Authors\\Edit.cshtml",
@@ -655,7 +776,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 39,
               "Title": "BookEntityTypeConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.Infrastructure\\EntityConfigurations\\BookEntityTypeConfiguration.cs",
               "RelativeDocumentMoniker": "LibraryMVC.Infrastructure\\EntityConfigurations\\BookEntityTypeConfiguration.cs",
@@ -667,7 +788,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 47,
               "Title": "Analysis.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Telegram Desktop\\Analysis.cshtml",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\Telegram Desktop\\Analysis.cshtml",
@@ -679,7 +800,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 43,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Loans\\Index.cshtml",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Loans\\Index.cshtml",
@@ -691,7 +812,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 46,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\QualificationFeatures\\Index.cshtml",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\QualificationFeatures\\Index.cshtml",
@@ -703,7 +824,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 48,
               "Title": "_Layout.cshtml.css",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Shared\\_Layout.cshtml.css",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Shared\\_Layout.cshtml.css",
@@ -715,19 +836,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "Analysis.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Home\\Analysis.cshtml",
-              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Home\\Analysis.cshtml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Home\\Analysis.cshtml",
-              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\Home\\Analysis.cshtml",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAiwFsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-22T08:19:37.361Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 49,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Downloads\\Telegram Desktop\\_Layout.cshtml",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\Telegram Desktop\\_Layout.cshtml",
@@ -739,7 +848,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 50,
               "Title": "ChartsController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Controllers\\ChartsController.cs",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Controllers\\ChartsController.cs",
@@ -751,7 +860,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 51,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Controllers\\HomeController.cs",
@@ -763,7 +872,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 52,
               "Title": "QualificationFeaturesController.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Controllers\\QualificationFeaturesController.cs",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Controllers\\QualificationFeaturesController.cs",
@@ -775,7 +884,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 53,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\QualificationFeatures\\Details.cshtml",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\QualificationFeatures\\Details.cshtml",
@@ -787,7 +896,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 54,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\QualificationFeatures\\Edit.cshtml",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\QualificationFeatures\\Edit.cshtml",
@@ -799,7 +908,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 55,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\QualificationFeatures\\Delete.cshtml",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\QualificationFeatures\\Delete.cshtml",
@@ -811,7 +920,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 58,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Readers\\Create.cshtml",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Readers\\Create.cshtml",
@@ -823,7 +932,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 57,
               "Title": "FeatureForm.cs",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Models\\FeatureForm.cs",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Models\\FeatureForm.cs",
@@ -835,7 +944,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 56,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\QualificationFeatures\\Create.cshtml",
               "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\QualificationFeatures\\Create.cshtml",
