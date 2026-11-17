@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\_googleanalytics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\_googleanalytics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|c:\\users\\pc\\desktop\\\u0442\u0430\u0440\u0430\u0441\\\u043A\u043E\u043C\u0456\u0441\u0456\u044F\\solution0708\\solution1\\librarymvc.webmvc\\views\\shared\\_googleanalytics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2762BBE9-C759-4C86-A371-D9F31CC962D9}|LibraryMVC.WebMVC\\LibraryMVC.WebMVC.csproj|solutionrelative:librarymvc.webmvc\\views\\shared\\_googleanalytics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Downloads\\Telegram Desktop\\_GoogleAnalytics.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
@@ -251,17 +251,16 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\Telegram Desktop\\_GoogleAnalytics.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-17T09:00:33.791Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-17T09:00:33.791Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "_GoogleAnalytics.cshtml",
-              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\_GoogleAnalytics.cshtml",
-              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\_GoogleAnalytics.cshtml",
-              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\_GoogleAnalytics.cshtml",
-              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\_GoogleAnalytics.cshtml",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Shared\\_GoogleAnalytics.cshtml",
+              "RelativeDocumentMoniker": "LibraryMVC.WebMVC\\Views\\Shared\\_GoogleAnalytics.cshtml",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\\u0422\u0430\u0440\u0430\u0441\\\u041A\u043E\u043C\u0456\u0441\u0456\u044F\\Solution0708\\Solution1\\LibraryMVC.WebMVC\\Views\\Shared\\_GoogleAnalytics.cshtml",
+              "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\Shared\\_GoogleAnalytics.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-11-17T08:58:43.135Z",
@@ -277,8 +276,7 @@
               "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-17T08:58:12.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-17T08:58:12.497Z"
             },
             {
               "$type": "Document",
@@ -290,8 +288,7 @@
               "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-11-17T08:58:05.957Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-17T08:58:05.957Z"
             },
             {
               "$type": "Document",
@@ -303,8 +300,7 @@
               "RelativeToolTip": "LibraryMVC.WebMVC\\wwwroot\\lib\\chart.js\\chart.umd.min.js",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-11-12T09:32:36.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-11-12T09:32:36.172Z"
             },
             {
               "$type": "Document",
@@ -340,8 +336,7 @@
               "RelativeToolTip": "LibraryMVC.WebMVC\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAGYAAAAAAAAAAAAswIcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-08-22T08:13:07.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-22T08:13:07.383Z"
             },
             {
               "$type": "Document",
@@ -413,8 +408,7 @@
               "RelativeToolTip": "LibraryMVC.WebMVC\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-27T08:44:08.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-10-27T08:44:08.913Z"
             },
             {
               "$type": "Document",
